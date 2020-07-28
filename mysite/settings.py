@@ -165,5 +165,4 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
-DEFAULT_FILE_STORAGE = 'storages.backends.dropbox.DropBoxStorage'
 
