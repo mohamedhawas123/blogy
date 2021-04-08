@@ -1,6 +1,6 @@
 appdirs==1.4.3
 
-Django==2.2.10
+Django==2.2.20
 django-allauth==0.39.1
 django-bootstrap-base-template==0.0.2
 django-bootstrap4==2.2.0
