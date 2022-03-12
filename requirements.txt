@@ -15,7 +15,7 @@ djangorestframework==3.9.4
 gunicorn==19.9.0
 idna==2.8
 django-storages==1.9.1
-Pillow==7.0.0
+Pillow==9.0.1
 dropbox==10.3.0
 requests==2.22.0
 SecretStorage==2.3.1
